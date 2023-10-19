@@ -1,0 +1,1 @@
+add_library(lib_two SHARED file0.cpp file1.cpp file2.cpp file3.cpp)
